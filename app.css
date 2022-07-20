@@ -1,13 +1,11 @@
-/* body {
-    background-color: lightgrey;
-} */
 
 /* Main styles */
 .container {
-  /* display: flex; */
   height: 30%;
-  /* display: block; */
-  /* text-align: center; */
+}
+
+.row align-items-start {
+  align-content: start;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
